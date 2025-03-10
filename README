@@ -1,0 +1,12 @@
+Il y a deux programmes de résolution du problème.
+Le premier, "main", utilise l'approche par masques pendant que l'autre, 
+"main_optimise", est une approche plus optimisée descendente.
+
+Pour lancer les programmes, utilisez "go run <programme> [fichier d'entrées]"
+
+
+Un autre programme, generateur.go (fait par IA), permet de générer des fichiers d'entrées
+plus compliquées à traiter que celles obtenues sur le site de AoC.
+Utilisez "go run generateur.go [nombre de lignes voulues]"
+
+Un fichier d'entrées obtenu avec ce programme est donné: input
